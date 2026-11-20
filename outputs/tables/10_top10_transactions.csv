@@ -1,0 +1,11 @@
+Transaction_ID,Transaction_Date,Account_Type,Transaction_Type,Channel,City,Amount,Flagged
+TXN100766,2026-01-15 16:19:00,Salary,Credit,ATM,Bengaluru,897833.57,No
+TXN101041,2026-09-09 03:34:00,Savings,Debit,Mobile App,Delhi,896158.81,No
+TXN101001,2026-01-02 02:58:00,Business,Debit,UPI,Pune,843019.65,No
+TXN100153,2026-05-26 06:21:00,Savings,Debit,UPI,Hyderabad,819827.21,No
+TXN100158,2026-08-08 05:06:00,Salary,Debit,Net Banking,Pune,756514.52,Yes
+TXN101198,2026-02-02 02:54:00,Savings,Credit,UPI,Hyderabad,593649.07,No
+TXN100181,2026-03-01 13:23:00,Savings,Debit,UPI,Hyderabad,544657.59,No
+TXN100871,2026-07-17 23:43:00,Savings,Credit,POS,Mumbai,526813.26,No
+TXN100944,2026-09-07 06:20:00,Savings,Debit,Branch,Mumbai,434966.0,No
+TXN100140,2026-02-21 18:05:00,Savings,Debit,Branch,Mumbai,393066.02,No

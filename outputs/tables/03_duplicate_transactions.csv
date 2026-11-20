@@ -1,0 +1,17 @@
+Transaction_ID,Transaction_Date,Account_ID,Account_Type,Transaction_Type,Channel,City,Amount,Flagged
+TXN100050,2026-09-16 00:10,ACC1013,Savings,Credit,POS,Mumbai,18804.24,No
+TXN100050,2026-09-16 00:10,ACC1013,Savings,Credit,POS,Mumbai,18804.24,No
+TXN100661,2026-06-10 20:43,ACC1274,Business,Debit,Net Banking,Pune,690.4,No
+TXN100661,2026-06-10 20:43,ACC1274,Business,Debit,Net Banking,Pune,690.4,No
+TXN100692,2026-09-29 17:14,ACC1340,Current,Credit,UPI,Delhi,3879.95,No
+TXN100692,2026-09-29 17:14,ACC1340,Current,Credit,UPI,Delhi,3879.95,No
+TXN100884,2026-07-21 23:11,ACC1365,Salary,Credit,Mobile App,Pune,9167.66,No
+TXN100884,2026-07-21 23:11,ACC1365,Salary,Credit,Mobile App,Pune,9167.66,No
+TXN100910,2026-02-18 00:19,ACC1281,Current,Debit,UPI,Chennai,9158.78,No
+TXN100910,2026-02-18 00:19,ACC1281,Current,Debit,UPI,Chennai,9158.78,No
+TXN101007,2026-06-20 19:17,ACC1004,Savings,Credit,Mobile App,Mumbai,815.59,No
+TXN101007,2026-06-20 19:17,ACC1004,Savings,Credit,Mobile App,Mumbai,815.59,No
+TXN101136,2026-03-17 04:55,ACC1117,Business,Debit,Mobile App,Kolkata,8054.41,No
+TXN101136,2026-03-17 04:55,ACC1117,Business,Debit,Mobile App,Kolkata,8054.41,No
+TXN101192,2026-03-22 15:33,ACC1123,Savings,Debit,UPI,Mumbai,555.91,No
+TXN101192,2026-03-22 15:33,ACC1123,Savings,Debit,UPI,Mumbai,555.91,No
