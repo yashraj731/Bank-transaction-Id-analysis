@@ -1,9 +1,0 @@
-Account_Type,Transaction_Type,Transactions,Total_Amount,Mean_Amount
-Business,Credit,75,490329.53,6537.73
-Business,Debit,116,1817831.5,15670.96
-Current,Credit,96,520866.57,5425.69
-Current,Debit,142,1175810.66,8280.36
-Salary,Credit,95,1251869.81,13177.58
-Salary,Debit,116,1199162.4,10337.61
-Savings,Credit,241,1871468.05,7765.43
-Savings,Debit,319,4154280.7,13022.82
