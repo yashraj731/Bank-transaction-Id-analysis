@@ -57,12 +57,9 @@ Outputs are written to `outputs/`. To rebuild the dataset: `python src/generate_
 | 14 | NumPy Boolean indexing | section 14 (threshold 100,000) |
 | 15 | Recommendations | section 15, `recommendations.md` |
 
-Extra: monthly credit/debit trend and an HTML chart page.
 
-## Charts
 
-No plotting library is used (no matplotlib). `outputs/charts.html` is generated
-with plain Python as HTML/CSS bars and opens in any browser.
+
 
 ## Method notes
 
